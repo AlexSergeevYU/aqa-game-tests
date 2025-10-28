@@ -1,0 +1,5 @@
+﻿target/
+.idea/
+*.iml
+logs/
+allure-results/
